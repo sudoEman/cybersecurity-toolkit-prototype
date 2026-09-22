@@ -91,15 +91,15 @@ Example structure:
 
 ![Security Dashboard](screenshots/dashboard.png)
 
-### Scan Results
+### Saved Reports
 
 ![Scan Results](screenshots/scan-results.png)
 
-### Saved Reports
+### Open Security Report
 
 ![Reports](screenshots/reports.png)
 
-## Installation
+## Scan Configuration and Results
 
 ### Requirements
 
