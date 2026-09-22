@@ -88,18 +88,22 @@ Example structure:
 ## Screenshots
 
 ### Security Dashboard
+<img width="671" height="351" alt="Screenshot 2026-09-21 130539" src="https://github.com/user-attachments/assets/2c0e2b02-845e-4c88-b49b-070e076a68fb" />
 
-![Security Dashboard](screenshots/dashboard.png)
+
 
 ### Saved Reports
+<img width="672" height="357" alt="Screenshot 2026-09-21 130620" src="https://github.com/user-attachments/assets/b3d4c8b4-e3f3-4600-81ec-6aa3679dfa7f" />
 
-![Scan Results](screenshots/scan-results.png)
+
 
 ### Open Security Report
+<img width="668" height="350" alt="Screenshot 2026-09-21 130643" src="https://github.com/user-attachments/assets/6217d2e9-583e-4a05-b7ea-b4cc80dcdc53" />
 
-![Reports](screenshots/reports.png)
+
 
 ## Scan Configuration and Results
+<img width="671" height="351" alt="Screenshot 2026-09-21 130716" src="https://github.com/user-attachments/assets/fcfca8b2-75c4-434f-9d79-2c117eab7d8f" />
 
 ### Requirements
 
